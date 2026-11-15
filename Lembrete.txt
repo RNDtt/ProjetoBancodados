@@ -1,0 +1,13 @@
+Lembrete e comunicação 
+
+ENTREGA DIA 23/11
+
+    * Criar dicionario para apresentação
+
+    * Gravar apresentação 
+
+    * Editar video 
+
+    * Postar no ava link do repositorio git com video no repositorio
+
+    
